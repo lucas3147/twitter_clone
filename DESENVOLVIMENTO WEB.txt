@@ -811,6 +811,20 @@ CÓDIGO DE AULA:
         }, 1000)
 </script>
 
+-------------------------------------------------------------------------------------------------
+
+					### SECTION 09 ###
+
+		AULA: COMO UTILIZAR O ECMASCRIPT 2015 (ES6) EM SUAS PÁGINAS?
+
+- Os navegadores web não suportam as features do (ES6), por esse motivo que vamos converter o código ES6 para a sintaxe do ES5
+
+		AULA: BABEL - INTRODUÇÃO E CONFIGURAÇÃO
+
+- O Babel é um dos compiladores mais completos em termos de transcrição de código escrito em ES6 para ES5
+
+-------------------------------------------------------------------------------------------------
+
 
 					### SECTION 10 ###
 		
